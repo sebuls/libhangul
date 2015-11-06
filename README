@@ -6,12 +6,3 @@ How to build
  $ ./autogen.sh
  $ ./configure
  # make
-
-Download:
- * http://code.google.com/p/libhangul/downloads/list
-
-Bug report:
- * http://code.google.com/p/libhangul/issues/list
-
-Web sites
- * Project page: http://code.google.com/p/libhangul/
